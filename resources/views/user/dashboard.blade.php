@@ -13,7 +13,7 @@ Dashboard - Perpustakaan
           <p>Perpustakaan Website merupakan platform yang menyediakan akses mudah ke berbagai koleksi buku dan sumber daya ilmiah dari berbagai bidang.Platform ini bertujuan untuk membangun komunitas yang bersemangat dalam belajar dan berbagi pengetahuan.</p>
           <div class="search-input">
             <div class="main-button">
-              <a href="{{route('bookitems')}}">Read It</a>
+              <a href="{{route('bookitems')}}">Read It Bro..</a>
             </div>
           </div>
         </div>
