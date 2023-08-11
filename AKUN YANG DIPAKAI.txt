@@ -1,0 +1,7 @@
+USER
+email = popo@gmail.com
+password = popo12345
+
+ADMIN
+email = fakhri@gmail.com
+password = fakhri12345
