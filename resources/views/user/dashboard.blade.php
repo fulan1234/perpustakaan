@@ -10,7 +10,7 @@ Dashboard - Perpustakaan
         <div class="caption header-text">
           <h6>Welcome {{Auth::user()->name}}</h6>
           <h2>BEST LIBRARY SITE</h2>
-          <p>Perpustakaan Website merupakan platform yang menyediakan akses mudah ke berbagai koleksi buku dan sumber daya ilmiah dari berbagai bidang.Platform ini bertujuan untuk membangun komunitas yang bersemangat dalam belajar dan berbagi pengetahuan.</p>
+          <p>Perpustakaan Website merupakan ujian dari detik.com namun sayang saya tidak lolos</p>
           <div class="search-input">
             <div class="main-button">
               <a href="{{route('bookitems')}}">Read It Bro..</a>
