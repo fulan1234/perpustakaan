@@ -10,7 +10,7 @@ Dashboard - Perpustakaan
         <div class="caption header-text">
           <h6>Welcome {{Auth::user()->name}}</h6>
           <h2>BEST LIBRARY SITE</h2>
-          <p>Perpustakaan Website merupakan ujian dari detik.com namun sayang hasil berkata lain.</p>
+          <p>Perpustakaan Website merupakan ujian dari detik.com namun sayang hasil berkata lain. { master }</p>
           <div class="search-input">
             <div class="main-button">
               <a href="{{route('bookitems')}}">Read It Lewy Bayern munchen</a>
