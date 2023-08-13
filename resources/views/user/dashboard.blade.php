@@ -13,7 +13,7 @@ Dashboard - Perpustakaan
           <p>Perpustakaan Website merupakan ujian dari detik.com namun sayang hasil berkata lain. { master }</p>
           <div class="search-input">
             <div class="main-button">
-              <a href="{{route('bookitems')}}">Read It Lewy Bayern munchen</a>
+              <a href="{{route('bookitems')}}">Read It Lewy Chelsea</a>
             </div>
           </div>
         </div>
